@@ -292,3 +292,5 @@ New user enters room ID
 
 ---
 
+## Time spent
+- 2.5 days
