@@ -85,7 +85,7 @@ function initCanvas() {
 // Connect to WebSocket server and join room
 async function connectWebSocket() {
     try {
-        const SERVER_URL = 'https://realtimecanvas.onrender.com';
+        const SERVER_URL = 'https://real-time-collaborative-drawing-canvas-ni5j.onrender.com';
         await wsManager.connect(SERVER_URL);
 
         // Send room and user information
